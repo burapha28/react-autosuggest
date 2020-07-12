@@ -658,3 +658,4 @@ Now, open `http://localhost:3000/demo/dist/index.html` and start hacking!
 ## License
 
 [MIT](http://moroshko.mit-license.org)
+
